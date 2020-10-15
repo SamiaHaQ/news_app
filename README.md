@@ -4,6 +4,10 @@ A Flutter application for daily update news.
 
 ## Overview
 
+[![Youtube video link](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/N6roYv6WwbM)
+
+
+
 This a mobile application that will show the news of the current world. Users can filter news by their needs. They can filter the news by -
   - Category
   - Keyword or phrase
